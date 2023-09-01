@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.css";
-import IntroPhone from "../../svgs/IntroPhone.png";
-import { ReactComponent as DownArrow } from "../../svgs/DownArrow.svg";
+import IntroPhone from "../../assets/IntroPhone.png";
+import { ReactComponent as DownArrow } from "../../assets/DownArrow.svg";
 
 const Header = () => {
   return (

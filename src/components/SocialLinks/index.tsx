@@ -1,7 +1,7 @@
 import React from "react";
-import { ReactComponent as Twitter } from "../../svgs/Twitter.svg";
-import { ReactComponent as Hangouts } from "../../svgs/Hangouts.svg";
-import { ReactComponent as Instagram } from "../../svgs/Instagram.svg";
+import { ReactComponent as Twitter } from "../../assets/Twitter.svg";
+import { ReactComponent as Hangouts } from "../../assets/Hangouts.svg";
+import { ReactComponent as Instagram } from "../../assets/Instagram.svg";
 
 const SocialLinks = () => {
   return (

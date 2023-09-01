@@ -1,6 +1,6 @@
 import React from "react";
-import { ReactComponent as Dollar } from "../../svgs/Dollar.svg";
-import { ReactComponent as EyeIcon } from "../../svgs/EyeIcon.svg";
+import { ReactComponent as Dollar } from "../../assets/Dollar.svg";
+import { ReactComponent as EyeIcon } from "../../assets/EyeIcon.svg";
 
 const NavbarLinks = [
   "Sign in",

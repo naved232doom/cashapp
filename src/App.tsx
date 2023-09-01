@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
@@ -9,17 +8,12 @@ import { AiFillApple } from "react-icons/ai";
 import { FaGooglePlay } from "react-icons/fa";
 import BottomText from "./components/BottomText";
 import SocialLinks from "./components/SocialLinks";
-import CubeBottomLeft from "../src/svgs/CubeBottomLeft.png";
 import Hamburger from "./components/Hamburger";
 import { RxCrossCircled } from "react-icons/rx";
 
 function App() {
   const [isOpen, setIsOpen] = useState<boolean>(false);
-  const Menu = () => (
-    <div className="h-screen ">
-      <div className="text-white text-2xl">Hello</div>
-    </div>
-  );
+
   const NavbarLinks = [
     "Sign in",
     "legal",

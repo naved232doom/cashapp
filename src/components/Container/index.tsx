@@ -1,8 +1,8 @@
 import React from "react";
-import CubeBottomLeft from "../../svgs/CubeBottomLeft.png";
-import CubeUpperLeft from "../../svgs/CubeUpperLeft.png";
-import PillarBottomRight from "../../svgs/PillarBottomRight.png";
-import StairsUpperRight from "../../svgs/StairsUpperRight.png";
+import CubeBottomLeft from "../../assets/CubeBottomLeft.png";
+import CubeUpperLeft from "../../assets/CubeUpperLeft.png";
+import PillarBottomRight from "../../assets/PillarBottomRight.png";
+import StairsUpperRight from "../../assets/StairsUpperRight.png";
 
 const Container = () => {
   return (
