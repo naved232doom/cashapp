@@ -17,7 +17,7 @@ const Container = () => {
       <div className="absolute w-[90px] md:w-[200px] md:right-[20%] top-[5%] right-[20px]">
         <img src={StairsUpperRight} alt="Cube Bottom Left"></img>
       </div>
-      <div className="absolute w-[100px]  md:w-[280px] md:right-[25%] right-[10px] bottom-0">
+      <div className="absolute w-[100px]  md:w-[280px] md:right-[25%] right-[10px] md:bottom-0 bottom-[100px]">
         <img src={PillarBottomRight} alt="Cube Bottom Left"></img>
       </div>
     </div>
