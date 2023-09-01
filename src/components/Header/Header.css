@@ -1,0 +1,11 @@
+.font-class {
+  color: #fff;
+  text-align: center;
+  font-family: Agrandir;
+
+  font-style: normal;
+  font-weight: 800;
+  line-height: 166px; /* 86.01% */
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
